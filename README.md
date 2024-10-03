@@ -6,7 +6,7 @@
 ![Gradient Line](https://via.placeholder.com/1200x4/FF0080/FFB6C1?text=+)
 
 ## 📊 GitHub Stats
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishsahu116&show_icons=true&theme=radical)
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishsahu116&show_icons=truel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishsahu116&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Skills
