@@ -4,16 +4,22 @@
 - ⚡ Fun fact: I love solving coding challenges and exploring new technologies.
 
 <svg xmlns='http://www.w3.org/2000/svg' width='300px' height='300px'>
-<defs>
-<linearGradient id='g1'>
-<stop stop-color='#b43a59'/>
-<stop stop-color='#b43a59'/>
-<stop offset='.5' stop-color='#281dfd' stop-opacity='.891281512605042'/>
-<stop offset='1' stop-color='#fc458c'/>
-</linearGradient>
-</defs>
-<rect width='100%' height='100%' fill='url(#g1)'/>
+    <defs>
+        <linearGradient id='g1' gradientTransform="rotate(90)">
+            <stop offset='0%' stop-color='#b43a59' />
+            <stop offset='50%' stop-color='#281dfd' stop-opacity='0.891' />
+            <stop offset='100%' stop-color='#fc458c' />
+        </linearGradient>
+    </defs>
+    <rect width='100%' height='100%' fill='url(#g1)'>
+        <animate 
+            attributeName="fill" 
+            values="url(#g1);url(#g1);url(#g1);url(#g1);" 
+            dur="5s" 
+            repeatCount="indefinite" />
+    </rect>
 </svg>
+
 
 ## 📊 GitHub Stats
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishsahu116&show_icons=true&theme=radical)
