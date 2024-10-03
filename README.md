@@ -3,8 +3,7 @@
 - 🌱 I'm currently learning **React and Full-Stack Development**.
 - ⚡ Fun fact: I love solving coding challenges and exploring new technologies.
 
-![Gradient Line](https://github.com/user-attachments/assets/2666f978-edad-45bf-9b5f-3f5d32937e5b)
-<div class="tenor-gif-embed" data-postid="8897135327839893146" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/divide-gif-8897135327839893146">Divide Sticker</a>from <a href="https://tenor.com/search/divide-stickers">Divide Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Gradient Line](https://via.placeholder.com/1200x4/FF0080/FFB6C1?text=+)
 
 ## 📊 GitHub Stats
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishsahu116&show_icons=true&theme=radical)
