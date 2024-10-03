@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Manish Sahu!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Manish Sahu!
 
 - 🌱 I'm currently learning **React and Full-Stack Development**.
 - ⚡ Fun fact: I love solving coding challenges and exploring new technologies.
