@@ -32,5 +32,5 @@
 
 
 ## 📫 Let's Connect:
-[![Linkedin](https://img.shields.io/badge/-Manish%20Sahu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish-sahu-933013220/)]
-[![GitHub](https://img.shields.io/badge/-Manishsahu116-black?style=flat&logo=github&link=https://github.com/Manishsahu116)]
+[![Linkedin](https://img.shields.io/badge/-Manish%20Sahu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish-sahu-933013220/)](https://www.linkedin.com/in/manish-sahu-933013220/)
+[![GitHub](https://img.shields.io/badge/-Manishsahu116-black?style=flat&logo=github&link=https://github.com/Manishsahu116)](https://github.com/Manishsahu116)
