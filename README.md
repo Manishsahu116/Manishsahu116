@@ -3,7 +3,17 @@
 - 🌱 I'm currently learning **React and Full-Stack Development**.
 - ⚡ Fun fact: I love solving coding challenges and exploring new technologies.
 
-<p align="center"><hr style="height: 3px; background: linear-gradient(90deg, rgba(180,58,89,1) 0%, rgba(40,29,253,0.891) 50%, rgba(252,69,140,1) 100%); border: none; width: 80%;"/></p>
+<svg xmlns='http://www.w3.org/2000/svg' width='300px' height='300px'>
+<defs>
+<linearGradient id='g1'>
+<stop stop-color='#b43a59'/>
+<stop stop-color='#b43a59'/>
+<stop offset='.5' stop-color='#281dfd' stop-opacity='.891281512605042'/>
+<stop offset='1' stop-color='#fc458c'/>
+</linearGradient>
+</defs>
+<rect width='100%' height='100%' fill='url(#g1)'/>
+</svg>
 
 ## 📊 GitHub Stats
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishsahu116&show_icons=true&theme=radical)
@@ -22,5 +32,5 @@
 
 
 ## 📫 Let's Connect:
-[![Linkedin](https://img.shields.io/badge/-Manish%20Sahu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish-sahu)](https://www.linkedin.com/in/manish-sahu)
-[![GitHub](https://img.shields.io/badge/-Manishsahu116-black?style=flat&logo=github&link=https://github.com/Manishsahu116)](https://github.com/Manishsahu116)
+[![Linkedin](https://www.linkedin.com/in/manish-sahu-933013220/)
+[![GitHub](https://github.com/Manishsahu116)
