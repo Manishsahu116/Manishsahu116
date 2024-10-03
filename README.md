@@ -3,7 +3,13 @@
 - 🌱 I'm currently learning **React and Full-Stack Development**.
 - ⚡ Fun fact: I love solving coding challenges and exploring new technologies.
 
-![coding](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67356291/158065990-23622d4c-87d9-47a7-b947-8d09c5ba93fa.png" alt="gradient-line" width="300" height="3"/>
+</p>
 
 ## 📊 GitHub Stats
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishsahu116&show_icons=true&theme=radical)
