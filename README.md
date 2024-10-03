@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning **React and Full-Stack Development**.
 - ⚡ Fun fact: I love solving coding challenges and exploring new technologies.
 
-![image](https://github.com/user-attachments/assets/2666f978-edad-45bf-9b5f-3f5d32937e5b)
+![Gradient Line](https://github.com/user-attachments/assets/2666f978-edad-45bf-9b5f-3f5d32937e5b)
 
 ## 📊 GitHub Stats
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishsahu116&show_icons=true&theme=radical)
