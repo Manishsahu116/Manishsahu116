@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/67356291/158065990-23622d4c-87d9-47a7-b947-8d09c5ba93fa.png" alt="gradient-line" width="300" height="3"/>
+  <hr style="height: 3px; background: linear-gradient(90deg, #00dbde, #fc00ff); border: none; width: 80%;"/>
 </p>
 
 ## 📊 GitHub Stats
