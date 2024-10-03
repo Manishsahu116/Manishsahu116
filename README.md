@@ -3,13 +3,7 @@
 - 🌱 I'm currently learning **React and Full-Stack Development**.
 - ⚡ Fun fact: I love solving coding challenges and exploring new technologies.
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
-</p>
-<p align="center">
-  <hr style="height: 3px; background: linear-gradient(90deg, #00dbde, #fc00ff); border: none; width: 80%;"/>
-</p>
+<p align="center"><hr style="height: 3px; background: linear-gradient(90deg, rgba(180,58,89,1) 0%, rgba(40,29,253,0.891) 50%, rgba(252,69,140,1) 100%); border: none; width: 80%;"/></p>
 
 ## 📊 GitHub Stats
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishsahu116&show_icons=true&theme=radical)
