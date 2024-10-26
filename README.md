@@ -6,7 +6,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=ManishSahu116&icon=0&color=12)](https://visitcount.itsvg.in)
 
-![Gradient Line](https://via.placeholder.com/1200x4/FF0080/FFB6C1?text=+)
+![image](https://github.com/user-attachments/assets/87d0f820-ab3f-4a52-b38c-d3bf5a4cdd44)
 
 ## 📫 Let's Connect :
 [![Linkedin](https://img.shields.io/badge/-Manish%20Sahu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish-sahu-933013220/)](https://www.linkedin.com/in/manish-sahu-933013220/)
