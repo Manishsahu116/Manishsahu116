@@ -45,7 +45,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishsahu116&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishsahu116&" alt="manishsahu116" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manishsahu116&" alt="manishsahu116" /></p>
 
 ## 🚀 Let's Build Something Together!
 Feel free to reach out for collaborations, discussions, or just to connect!
