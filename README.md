@@ -40,13 +40,12 @@
 <p><a href="https://www.buymeacoffee.com/manishsahu116"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manishsahu116" /></a></p><br><br>
 <br>
 
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishsahu116&show_icons=true) 
-<br>
+![Manishsahu116's Stats](https://github-readme-stats.vercel.app/api?username=Manishsahu116&theme=default&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishsahu116&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Manishsahu116's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manishsahu116&theme=default&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishsahu116&" alt="manishsahu116" /></p>
-https://github-readme-streak-stats.herokuapp.com/?user=manishsahu116&
+![Manishsahu116's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishsahu116&theme=default&show_icons=true&hide_border=true&layout=compact)
+
 
 ## 🚀 Let's Build Something Together!
 Feel free to reach out for collaborations, discussions, or just to connect!
