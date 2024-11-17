@@ -1,7 +1,7 @@
 # <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manish Sahu!</h1>
 <h4 align="center">A passionate frontend developer from India with a strong foundation in web development technologies and a knack for problem-solving.</h4>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **MERN Stack**
 - ⚡ Fun fact **I love solving coding challenges and exploring new technologies.**
 
 [![](https://visitcount.itsvg.in/api?id=ManishSahu116&icon=0&color=12)](https://visitcount.itsvg.in)
