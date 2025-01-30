@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 - ⚡ Fun fact **I love solving coding challenges and exploring new technologies.**
 
-[![](https://visitcount.itsvg.in/api?id=ManishSahu116&icon=0&color=12)](https://visitcount.itsvg.in)
-
-![Gradient Line](https://via.placeholder.com/1200x4/FF0080/FFB6C1?text=+)
+![Profile Views](https://komarev.com/ghpvc/?username=manishsahu116&label=Profile%20views&color=0e75b6&style=plastic)
 
 ## 📫 Let's Connect :
 [![Linkedin](https://img.shields.io/badge/-Manish%20Sahu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish-sahu-933013220/)](https://www.linkedin.com/in/manish-sahu-933013220/)
@@ -34,7 +32,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white)
 
-![Gradient Line](https://via.placeholder.com/1200x4/FF0080/FFB6C1?text=+)
 
 ## 👨🏻‍💻 Support : 
 <p><a href="https://www.buymeacoffee.com/manishsahu116"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manishsahu116" /></a></p><br><br>
